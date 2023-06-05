@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"be4ec4594a55dd227282c483ec6d3484","name":"test_pytestcase","statistic":{"failed":1,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":2}},{"uid":"19d69c07f998ae47daaefe63a5bc6bd0","name":"test_tpshoplogin","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}

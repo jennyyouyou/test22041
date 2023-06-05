@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri May 26 17:10:41 CST 2023","Fri May 26 17:10:41 CST 2023","59","","test_tpshoplogin","","","","test_login[fix_data1]",""
+"failed","Fri May 26 17:15:18 CST 2023","Fri May 26 17:15:18 CST 2023","50","test_pytestcase","test_tpshoplogin","","","","test_login[fix_data1]",""
+"passed","Fri May 26 17:10:41 CST 2023","Fri May 26 17:10:41 CST 2023","82","","test_tpshoplogin","","","","test_login[fix_data0]",""
+"passed","Fri May 26 17:15:18 CST 2023","Fri May 26 17:15:18 CST 2023","90","test_pytestcase","test_tpshoplogin","","","","test_login[fix_data0]",""
